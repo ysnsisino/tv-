@@ -1,43 +1,26 @@
 #EXTM3U
 
-#EXTINF:-1,2M NAT
+#EXTINF:-1 tvg-id="2M.ma" tvg-name="|MA| 2M MAROC HD" tvg-logo="http://i.imgur.com/YGXdwKu.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| 2M MAROC HD
 http://154.58.202.185:8000/play/a04k
-#EXTINF:-1,Al Aoula Inter
+#EXTINF:-1 tvg-id="AlAoula.ma" tvg-name="|MA| AL AOULA INTER" tvg-logo="http://i.imgur.com/NjFnTSG.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| AL AOULA INTER
 http://154.58.202.185:8000/play/a03t
 #EXTINF:-1 tvg-id="" tvg-name="|MA| AL AOULA FHD" tvg-logo="http://i.imgur.com/NjFnTSG.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| AL AOULA FHD
 http://154.58.202.185:8000/play/a03s
-#EXTINF:-1,Al Aoula Inter HD 2
+#EXTINF:-1 tvg-id="" tvg-name="|MA| AL AOULA FHD 2" tvg-logo="http://i.imgur.com/NjFnTSG.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| AL AOULA FHD
 http://154.197.91.168:7001/play/a0d8/index.m3u8
-#EXTINF:-1,Tamazight HD
+#EXTINF:-1 tvg-id="" tvg-name="|MA| TAMAZIGHT HD" tvg-logo="http://i.imgur.com/htebjJD.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| TAMAZIGHT HD
 http://185.236.229.117:8000/play/a01b/index.m3u8
-#EXTINF:-1,Arryadia HD
+#EXTINF:-1 tvg-id="Arryadia.ma" tvg-name="|MA| ARRYADIA MAROC" tvg-logo="https://i.imgur.com/81ksuGS.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| ARRYADIA MAROC
 http://154.58.202.185:8000/play/a03w
-#EXTINF:-1,Assadissa HD
+#EXTINF:-1 tvg-id="" tvg-name="|MA| ASSADISSA FHD" tvg-logo="http://i.imgur.com/l1puCC0.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| ASSADISSA FHD
 http://185.236.229.117:8000/play/a01a/index.m3u8
-#EXTINF:-1,Athaqafia HD
+#EXTINF:-1 tvg-id="" tvg-name="|MA| ARRABIAA FHD" tvg-logo="http://i.imgur.com/IWBJT17.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| ARRABIAA FHD
 http://185.236.229.117:8000/play/a018/index.m3u8
-#EXTINF:-1,Al Maghribia HD
+#EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-name="|MA| AL MAGHRIBIA ALIKHBARIA FHD" tvg-logo="http://i.imgur.com/TaxrKCi.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| AL MAGHRIBIA ALIKHBARIA FHD
 http://185.236.229.117:8000/play/a019/index.m3u8
-#EXTINF:1 ,Medi 1 TV Afrique (1080p) [Not 24/7]  (News)
+#EXTINF:-1 tvg-id="" tvg-name="|MA| MEDI1 AFRIQUE HD" tvg-logo="http://i.imgur.com/JWcgynN.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| MEDI1 AFRIQUE HD
 https://5f72f3a9b06b7.streamlock.net/live/smil:medi1fr.smil/playlist.m3u8
-#EXTINF:1 ,Medi 1 TV Arabic (1080p) [Not 24/7]  (News)
+#EXTINF:-1 tvg-id="" tvg-name="|MA| MEDI1 ARABIC HD" tvg-logo="http://i.imgur.com/JWcgynN.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| MEDI1 ARABIC HD
 https://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8
-#EXTINF:1 ,Medi 1 TV Maghreb (1080p) [Not 24/7]  (News)
+#EXTINF:-1 tvg-id="" tvg-name="|MA| MEDI1 MAGHREB HD" tvg-logo="http://i.imgur.com/JWcgynN.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| MEDI1 MAGHREB HD
 https://5f72f3a9b06b7.streamlock.net/live/smil:medi1tv.smil/playlist.m3u8
-
-#EXTINF:-1,2M TV
-http://185.234.217.22:8033/play/a03y/index.m3u8
-#EXTINF:-1,Al Aoula Inter
-http://185.234.217.22:8033/play/a044/index.m3u8
-#EXTINF:-1,Al Maghribia
-http://185.234.217.22:8033/play/a041/index.m3u8
-#EXTINF:-1,Arryadia
-http://185.234.217.22:8033/play/a03z/index.m3u8
-#EXTINF:-1,Assadissa
-http://185.234.217.22:8033/play/a042/index.m3u8
-#EXTINF:-1,Athaqafia
-http://185.234.217.22:8033/play/a040/index.m3u8
-#EXTINF:-1,Laayoune TV
-http://185.234.217.22:8033/play/a045/index.m3u8
-#EXTINF:-1,Tamazight
-http://185.234.217.22:8033/play/a043/index.m3u8
