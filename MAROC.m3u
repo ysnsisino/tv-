@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTINF: 5,
 
 #EXTINF:-1 tvg-id="2M.ma" tvg-name="|MA| 2M MAROC HD" tvg-logo="http://i.imgur.com/YGXdwKu.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| 2M MAROC HD
 http://154.58.202.185:8000/play/a04k
