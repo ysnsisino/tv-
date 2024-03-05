@@ -18,9 +18,3 @@ http://185.236.229.117:8000/play/a01a/index.m3u8
 http://185.236.229.117:8000/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-name="|MA| AL MAGHRIBIA ALIKHBARIA FHD" tvg-logo="http://i.imgur.com/TaxrKCi.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| AL MAGHRIBIA ALIKHBARIA FHD
 http://185.236.229.117:8000/play/a019/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|MA| MEDI1 AFRIQUE HD" tvg-logo="http://i.imgur.com/JWcgynN.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| MEDI1 AFRIQUE HD
-https://5f72f3a9b06b7.streamlock.net/live/smil:medi1fr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|MA| MEDI1 ARABIC HD" tvg-logo="http://i.imgur.com/JWcgynN.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| MEDI1 ARABIC HD
-https://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|MA| MEDI1 MAGHREB HD" tvg-logo="http://i.imgur.com/JWcgynN.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| MEDI1 MAGHREB HD
-https://5f72f3a9b06b7.streamlock.net/live/smil:medi1tv.smil/playlist.m3u8
