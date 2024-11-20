@@ -15,6 +15,6 @@ http://154.58.202.185:8000/play/a03w
 #EXTINF:-1 tvg-id="" tvg-name="|MA| ASSADISSA FHD" tvg-logo="http://i.imgur.com/l1puCC0.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| ASSADISSA FHD
 http://185.236.229.117:8000/play/a01a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|MA| ARRABIAA FHD" tvg-logo="http://i.imgur.com/IWBJT17.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| ARRABIAA FHD
-http://185.236.229.117:8000/play/a018/index.m3u8
+http://154.58.202.185:8000/play/a03w
 #EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-name="|MA| AL MAGHRIBIA ALIKHBARIA FHD" tvg-logo="http://i.imgur.com/TaxrKCi.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| AL MAGHRIBIA ALIKHBARIA FHD
 http://185.236.229.117:8000/play/a019/index.m3u8
