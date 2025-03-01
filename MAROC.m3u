@@ -1,6 +1,8 @@
 #EXTINF: 5,
 
 #EXTINF:-1 tvg-id="2M.ma" tvg-name="|MA| 2M MAROC HD" tvg-logo="http://i.imgur.com/YGXdwKu.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| 2M MAROC HD
+http://185.236.229.62:9981/play/a08r
+#EXTINF:-1 tvg-id="2M.ma" tvg-name="|MA| 2M MAROC HD" tvg-logo="http://i.imgur.com/YGXdwKu.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| 2M MAROC HD
 http://154.58.202.185:8000/play/a04k
 #EXTINF:-1 tvg-id="AlAoula.ma" tvg-name="|MA| AL AOULA INTER" tvg-logo="http://i.imgur.com/NjFnTSG.png" group-title="MAGHRÈBINES (DZ/MA/TN)",|MA| AL AOULA INTER
 http://154.58.202.185:8000/play/a03t
