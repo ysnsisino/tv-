@@ -11,8 +11,8 @@ http://154.58.202.185:8000/play/a03s
 #EXTINF:-1 tvg-id="" tvg-name="|MA| AL AOULA FHD 2" tvg-logo="http://i.imgur.com/NjFnTSG.png" group-title="MAROC",|MA| AL AOULA FHD
 http://154.197.91.168:7001/play/a0d8/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|MA| TAMAZIGHT HD" tvg-logo="http://i.imgur.com/htebjJD.png" group-title="MAROC",|MA| TAMAZIGHT HD
-http://185.236.229.117:8000/play/a01b/index.m3u8
 #EXTINF:-1 tvg-id="Arryadia.ma" tvg-name="|MA| ARRYADIA MAROC" tvg-logo="https://i.imgur.com/81ksuGS.png" group-title="MAROC",|MA| ARRYADIA MAROC
+http://185.236.229.117:8000/play/a01b/index.m3u8
 #EXTINF:-1 tvg-id="Arryadia.ma" tvg-name="|MA| ARRYADIA MAROC" tvg-logo="https://i.imgur.com/81ksuGS.png" group-title="MAROC",|MA| ARRYADIA MAROC
 http://154.58.202.185:8000/play/a03w
 http://154.58.202.185:8000/play/a03w
