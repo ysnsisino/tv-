@@ -24,3 +24,114 @@ http://154.58.202.185:8000/play/a03z
 http://185.236.229.117:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-name="|MA| AL MAGHRIBIA ALIKHBARIA FHD" tvg-logo="http://i.imgur.com/TaxrKCi.png" group-title="MAROC",|MA| AL MAGHRIBIA ALIKHBARIA FHD
 http://154.58.202.185:8000/play/a03y
+
+#EXTINF:-1 tvg-id"-",2M Maroc
+http://5.253.46.190:8000/play/a0dt/index.m3u8
+#EXTINF:-1 tvg-id"-",2M NATIONAL HD
+http://5.253.46.190:8000/play/a0e9/index.m3u8
+#EXTINF:-1 tvg-id"-",Agadir
+http://5.253.46.190:8000/play/a0ci/index.m3u8
+#EXTINF:-1 tvg-id"-",Al Aoula Inter
+http://5.253.46.190:8000/play/a0ef/index.m3u8
+#EXTINF:-1 tvg-id"-",Al Aoula Inter HD
+http://5.253.46.190:8000/play/a0ab/index.m3u8
+#EXTINF:-1 tvg-id"-",Al Aoula Inter HD
+http://5.253.46.190:8000/play/a0e8/index.m3u8
+#EXTINF:-1 tvg-id"-",Al Maghribia
+http://5.253.46.190:8000/play/a0ec/index.m3u8
+#EXTINF:-1 tvg-id"-",Al Maghribia HD
+http://5.253.46.190:8000/play/a0af/index.m3u8
+#EXTINF:-1 tvg-id"-",Al-Houceima
+http://5.253.46.190:8000/play/a0cj/index.m3u8
+#EXTINF:-1 tvg-id"-",Arryadia
+http://5.253.46.190:8000/play/a0ea/index.m3u8
+#EXTINF:-1 tvg-id"-",Arryadia HD
+http://5.253.46.190:8000/play/a0bi/index.m3u8
+#EXTINF:-1 tvg-id"-",Arryadia HD1
+http://5.253.46.190:8000/play/a0dr/index.m3u8
+#EXTINF:-1 tvg-id"-",Arryadia Olympics HD
+http://5.253.46.190:8000/play/a0dq/index.m3u8
+#EXTINF:-1 tvg-id"-",Assadissa
+http://5.253.46.190:8000/play/a0ed/index.m3u8
+#EXTINF:-1 tvg-id"-",Assadissa HD
+http://5.253.46.190:8000/play/a0ag/index.m3u8
+#EXTINF:-1 tvg-id"-",Athaqafia
+http://5.253.46.190:8000/play/a0eb/index.m3u8
+#EXTINF:-1 tvg-id"-",Athaqafia HD
+http://5.253.46.190:8000/play/a0ae/index.m3u8
+#EXTINF:-1 tvg-id"-",BBC Arabic
+http://5.253.46.190:8000/play/a0fc/index.m3u8
+#EXTINF:-1 tvg-id"-",BERBERE TV
+http://5.253.46.190:8000/play/a0fi/index.m3u8
+#EXTINF:-1 tvg-id"-",Canal algerie HD
+http://5.253.46.190:8000/play/a0em/index.m3u8
+#EXTINF:-1 tvg-id"-",Casablanca
+http://5.253.46.190:8000/play/a0cq/index.m3u8
+#EXTINF:-1 tvg-id"-",Chebab TV
+http://5.253.46.190:8000/play/a0fj/index.m3u8
+#EXTINF:-1 tvg-id"-",Dakhla
+http://5.253.46.190:8000/play/a0ce/index.m3u8
+#EXTINF:-1 tvg-id"-",El barlamaniya
+http://5.253.46.190:8000/play/a0es/index.m3u8
+#EXTINF:-1 tvg-id"-",FES
+http://5.253.46.190:8000/play/a0cn/index.m3u8
+#EXTINF:-1 tvg-id"-",France 24
+http://5.253.46.190:8000/play/a0fd/index.m3u8
+#EXTINF:-1 tvg-id"-",Hit Radio Maroc
+http://5.253.46.190:8000/play/a0ca/index.m3u8
+#EXTINF:-1 tvg-id"-",Laayoune
+http://5.253.46.190:8000/play/a0cp/index.m3u8
+#EXTINF:-1 tvg-id"-",Laayoune TV
+http://5.253.46.190:8000/play/a0eg/index.m3u8
+#EXTINF:-1 tvg-id"-",Laayoune TV HD
+http://5.253.46.190:8000/play/a0ac/index.m3u8
+#EXTINF:-1 tvg-id"-",MBC 5
+http://5.253.46.190:8000/play/a0ey/index.m3u8
+#EXTINF:-1 tvg-id"-",Marrakech
+http://5.253.46.190:8000/play/a0co/index.m3u8
+#EXTINF:-1 tvg-id"-",Medi1 TV Maghreb HD
+http://5.253.46.190:8000/play/a0ai/index.m3u8
+#EXTINF:-1 tvg-id"-",Meknes
+http://5.253.46.190:8000/play/a0cl/index.m3u8
+#EXTINF:-1 tvg-id"-",Oujda
+http://5.253.46.190:8000/play/a0cc/index.m3u8
+#EXTINF:-1 tvg-id"-",Radio Amazigh
+http://5.253.46.190:8000/play/a0cg/index.m3u8
+#EXTINF:-1 tvg-id"-",Radio Azawan Maroc
+http://5.253.46.190:8000/play/a0cs/index.m3u8
+#EXTINF:-1 tvg-id"-",Radio Inter
+http://5.253.46.190:8000/play/a0cf/index.m3u8
+#EXTINF:-1 tvg-id"-",Radio Med VI
+http://5.253.46.190:8000/play/a0ch/index.m3u8
+#EXTINF:-1 tvg-id"-",Radio Nationale
+http://5.253.46.190:8000/play/a0cd/index.m3u8
+#EXTINF:-1 tvg-id"-",TV 4 
+http://5.253.46.190:8000/play/a0en/index.m3u8
+#EXTINF:-1 tvg-id"-",TV 5
+http://5.253.46.190:8000/play/a0eo/index.m3u8
+#EXTINF:-1 tvg-id"-",TV6 HD
+http://5.253.46.190:8000/play/a0ep/index.m3u8
+#EXTINF:-1 tvg-id"-",TV7 ELMAARIFA
+http://5.253.46.190:8000/play/a0eq/index.m3u8
+#EXTINF:-1 tvg-id"-",TV8 EDHAKIRA
+http://5.253.46.190:8000/play/a0er/index.m3u8
+#EXTINF:-1 tvg-id"-",Tamazight
+http://5.253.46.190:8000/play/a0ee/index.m3u8
+#EXTINF:-1 tvg-id"-",Tamazight HD
+http://5.253.46.190:8000/play/a0ah/index.m3u8
+#EXTINF:-1 tvg-id"-",Tanger
+http://5.253.46.190:8000/play/a0cm/index.m3u8
+#EXTINF:-1 tvg-id"-",Tele Maroc
+http://5.253.46.190:8000/play/a0cb/index.m3u8
+#EXTINF:-1 tvg-id"-",Tetouan
+http://5.253.46.190:8000/play/a0ck/index.m3u8
+#EXTINF:-1 tvg-id"-",beIN SPORTS
+http://5.253.46.190:8000/play/a0dy/index.m3u8
+#EXTINF:-1 tvg-id"-",beIN SPORTS MAX 1
+http://5.253.46.190:8000/play/a0fo/index.m3u8
+#EXTINF:-1 tvg-id"-",beIN SPORTS MAX 6
+http://5.253.46.190:8000/play/a0fm/index.m3u8
+#EXTINF:-1 tvg-id"-",beIN SPORTS NEWS
+http://5.253.46.190:8000/play/a0e2/index.m3u8
+#EXTINF:-1 tvg-id"-",programme nationale HD
+http://5.253.46.190:8000/play/a0eu/index.m3u8
